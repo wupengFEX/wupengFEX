@@ -1,16 +1,14 @@
-### Hi there 👋
+# :merman: Hi, Nice to see you here!
 
-<!--
-**wupengFEX/wupengFEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working at @Bytedance now and living in Beijing, Doing open source projects at Baidu in the past few years!
 
-Here are some ideas to get you started:
+The following is my work content, welcome friends who are interested to join！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wupengFEX&theme=radical" />
+
+* :clown_face: `no/low/pro code`: Quickly build sites and improve efficiency
+* :sauropod: `component library`: Create a set of universal component libraries with certain design rules
+* :space_invader: `node`: Build a set of highly stable services, committed to service operation and maintenance and governance
+* :art: `business`: Responsible for the rapid construction of the website in Bytedance content security
+
+You can learn about our team through the [link](https://juejin.im/post/6872605207092527111) and Contact me via `smartfureplayer#gmail.com`. Welcome technical exchange!
