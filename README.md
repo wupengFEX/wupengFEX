@@ -1,8 +1,6 @@
 # :merman: Hi, Nice to see you here!
 
-I'm working at @Bytedance now and living in Beijing, Doing open source projects at Baidu in the past few years!
-
-The following is my work content, welcome friends who are interested to join！
+I'm working at @Bytedance now and living in Beijing, Doing open source projects at Baidu in the past few years! The following is my work content, welcome friends who are interested to join！
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wupengFEX&theme=radical" />
 
